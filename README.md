@@ -1,4 +1,4 @@
-#JavaScript Odev 2
+#JavaScript Ödev 2
 
 Y. Eren Okur
 | [Linkedin](https://www.linkedin.com/in/eren0kur/)
